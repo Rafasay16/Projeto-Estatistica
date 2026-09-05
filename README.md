@@ -1,10 +1,10 @@
-# 📊 Projeto I - Análise Estatística do Desempenho dos Alunos
+# Projeto I - Análise Estatística do Desempenho dos Alunos
 
 Este projeto realiza uma análise estatística exploratória e descritiva sobre os dados de desempenho acadêmico de estudantes na disciplina de Matemática, utilizando a linguagem **Python** e as bibliotecas **Pandas** e **Matplotlib**.
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 ├── dados/
@@ -21,7 +21,7 @@ Este projeto realiza uma análise estatística exploratória e descritiva sobre 
 
 ---
 
-## 📈 Análises Realizadas
+## Análises Realizadas
 
 1. **Conhecendo a Base de Dados**:
    - Total de registros e variáveis.
@@ -41,7 +41,7 @@ Este projeto realiza uma análise estatística exploratória e descritiva sobre 
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### 1. Clonar o repositório
 ```bash
@@ -72,7 +72,7 @@ python projeto.py
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
